@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-guyellis",
+  "version": "0.0.1",
+  "description": "Guy Ellis ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyellis/eslint-config-guyellis.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "shareable"
+  ],
+  "author": {
+    "name": "Guy Ellis",
+    "email": "wildfiction@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guyellis/eslint-config-guyellis/issues"
+  },
+  "homepage": "https://github.com/guyellis/eslint-config-guyellis#readme"
+}
