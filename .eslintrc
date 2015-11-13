@@ -29,6 +29,7 @@
     "no-mixed-spaces-and-tabs": 2,
     "no-multi-spaces": 2,
     "no-redeclare": 2,
+    "no-restricted-modules": [2, "underscore"],
     "no-self-compare": 1,
     "no-shadow-restricted-names": 2,
     "no-shadow": [2, {"builtinGlobals": true, "hoist": "all"}],
@@ -50,9 +51,9 @@
     "space-infix-ops": 1,
     "space-unary-ops": [2, { "words": true, "nonwords": false }],
     "strict": [0, "global"],
-    "vars-on-top": 0,
     "use-isnan": 2,
     "valid-jsdoc": 1,
+    "vars-on-top": 0,
     "yoda": [1, "never", { "exceptRange": false }]
   }
 }

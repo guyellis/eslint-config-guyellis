@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-guyellis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Guy Ellis ESLint Config",
   "main": "index.js",
   "scripts": {
