@@ -11,7 +11,7 @@ module.exports = {
     'eol-last': 2,
     'eqeqeq': 2,
     'guard-for-in': 1,
-    'indent': [1, 2],
+    'indent': [1, 2, {'SwitchCase': 1}],
     'new-cap': 0,
     'new-parens': 2,
     'no-caller': 2,
@@ -19,7 +19,7 @@ module.exports = {
     'no-dupe-args': 2,
     'no-dupe-keys': 2,
     'no-duplicate-case': 2,
-    'no-eq-null': 0,
+    'no-eq-null': 1,
     'no-eval': 2,
     'no-implied-eval': 2,
     'no-invalid-regexp': 2,
@@ -33,7 +33,7 @@ module.exports = {
     'no-trailing-spaces': 2,
     'no-undef-init': 2,
     'no-undef': 2,
-    'no-underscore-dangle': 0,
+    'no-underscore-dangle': 1,
     'no-unreachable': 2,
     'no-unused-vars': 1,
     'no-use-before-define': 2,
@@ -48,9 +48,9 @@ module.exports = {
     'space-infix-ops': 1,
     'space-unary-ops': [2, { 'words': true, 'nonwords': false }],
     'strict': [1, 'global'],
-    'vars-on-top': 0,
     'use-isnan': 2,
     'valid-jsdoc': 1,
+    'vars-on-top': 0,
     'yoda': [1, 'never', { 'exceptRange': false }]
   }
 };
