@@ -13,7 +13,8 @@ module.exports = {
     'react/no-did-update-set-state': 1,
     'react/no-multi-comp': 1,
     'react/no-unknown-property': 1,
+    'react/prop-types': 2,
     'react/react-in-jsx-scope': 1,
-    'react/self-closing-comp': 1,
+    'react/self-closing-comp': 1
   }
 };
