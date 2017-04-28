@@ -1,5 +1,7 @@
 # eslint-config-guyellis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/guyellis/eslint-config-guyellis.svg)](https://greenkeeper.io/)
+
 From the ESLint team: [ESLint Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
 
 ## Usage
